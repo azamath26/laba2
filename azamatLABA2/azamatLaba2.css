@@ -1,0 +1,352 @@
+body{
+    font-family: Arial, SansSerif;
+    padding: 0;
+    margin: 0;
+    background: white;
+}
+.BC {
+}
+.container-1{
+    width: 1900px;
+    display: flex;
+
+}
+.box-1{
+    width: 280px;
+    margin-left: 150px;
+    margin-top: 15px;
+
+}
+
+.logo{
+    height: 60px;
+    width: 500px;
+    float: left;
+    margin-left: 180px;
+}
+.box-2 {
+
+}
+.Text {
+    height: 20px;
+    float: right;
+    margin-top: 28px;
+}
+.box-3{
+    float: right;
+    margin-left:400px;
+
+}
+.nav1{
+    float: right;
+    font-size: 100% bold;
+    margin-right: 50px;
+}
+.menu{
+    font-family: 'arial', sans-serif;
+    text-transform: uppercase;
+    padding: 10px 5px
+    font-size: 50px;
+    margin: 0px;
+}
+.container-2{
+
+}
+.box-c2{
+    background-image: url("img/YOUR IMAGE HERE1.png");
+    height: 650px;
+    width: 2000px;
+
+}
+.box-c3{
+
+}
+.sl{
+    float: right;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 1400px;
+;
+}
+.BN{
+    float: right;
+    margin-top: 350px;
+    margin-left: 1500px;
+    position: absolute;
+
+
+}
+.LM
+{
+    float: right;
+    margin-top: 350px;
+    margin-left: 1700px;
+    position: absolute;
+
+}
+
+.container-3{
+    display: flex;
+
+}
+
+
+.icon1{
+    background-image: url("img/rrakete.png");
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 100px;
+    height: 310px;
+    width: 470px;
+}
+.icon2{
+    background-image: url("img/icon1.png");
+    float: left;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 100px;
+    height: 300px;
+    width: 470px;
+}
+
+.icon3{
+    background-image: url("img/Listok.png");
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 100px;
+    height: 300px;
+    width: 470px;
+}
+
+.container-4{
+    background-image: url("img/bg top1.png");
+    display: flex;
+    position: absolute;
+    margin-top: 150px;
+    height: 700px;
+    width: 2000px;
+}
+.container-4-1{
+    position: absolute;
+    width: 900px;
+    font-size: 11px;
+    margin-left: 620px;
+    margin-top: 150px;
+}
+.container-4-2{
+    position: absolute;
+    font-size: 11px;
+    margin-left: 620px;
+    margin-top: 300px;
+    float: left;
+    width: 300px;
+}
+.container-4-3{
+    position: absolute;
+    font-size: 11px;
+    margin-left: 620px;
+    margin-top: 500px;
+    float: left;
+    width: 300px;
+}
+.container-4-4{
+    position: absolute;
+    font-size: 11px;
+    margin-left: 1200px;
+    margin-top: 300px;
+    float: right;
+    width: 300px;
+}
+.container-4-5{
+    position: absolute;
+    font-size: 11px;
+    margin-left: 1200px;
+    margin-top: 500px;
+    float: right;
+    width: 300px;
+}
+.container-4-6{
+    position: absolute;
+    font-size: 18px;
+    margin-left: 620px;
+    margin-top: 50px;
+    float: right;
+    width: 600px;
+    color: gray;
+}
+.bg1{
+    display: center;
+    position: absolute;
+    width: 2000px;
+    height: 700px;
+}
+.bb{
+    margin-left: 0px;
+    margin-top: 170px;
+    display: flex;
+    position: absolute;
+    width: 50px;
+    height: 5px;
+}
+.re4{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 400px;
+    height: 200px;
+    width: 750px;
+}
+
+.bg{
+    display: flex;
+    margin-top: 300px;
+}
+.container-5{
+    display: inline-block;
+    background-image: url("img/footer bg.png");
+    margin-top: 850px;
+    height: 750px;
+    width: 2000px;
+}
+.one{
+    margin-left: 200px;
+float:left;
+}
+.one-1{
+    float: left;
+    margin-top:20px;
+    height: 600px;
+    width: 100px;
+}
+.one-2{
+    position: absolute;
+    float:left;
+    margin-top: 60px;
+    color:gray;
+}
+.one-3{
+    position: absolute;
+    float:left;
+    margin-top: 300px;
+    margin-left: 6px;
+}
+.SHA{
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+.icon{
+    float: left;
+    margin-top: 60px;
+    margin-left: 0px;
+}
+.two{
+    display: flex;
+    margin-left: 500px;
+}
+.two-1{
+    color: #fff;
+    margin-left: 300px;
+}
+.two-2{
+    margin-left: 300px;
+    margin-top: 70px;
+    position: absolute;
+    color: gray;
+}
+.add{
+    float: right;
+    margin-right: 60px;
+}
+.three{
+    display: flex;
+    margin-left: 700px;
+}
+.three-1{ 
+    margin-top:-60px;
+    position: absolute;
+    display: flex;
+    margin-left: 500px;
+    color: #fff;
+}
+.three-2{
+    margin-top: 1px;
+    margin-left: 500px;
+    position: absolute;
+    color: gray;
+}
+.four{
+    margin-top:-60px;
+    margin-left: 1500px;
+    color:white;
+}
+.four-1{
+    background-image: url("img/name.png");
+    height: 50px;
+    margin-top:-50px;
+    width: 150px;
+    font-size:10px;
+    float: left;
+    margin: 10px;
+
+
+}
+.four-2{
+    background-image: url("img/email.png");
+    float: right;
+    margin-top:10px;
+    height: 50px; 
+    width: 270px;
+    font-size: 11px;
+    margin-left: 200px;
+    position: absolute;
+
+}
+.four-3{
+    background-image: url("img/message.png");
+    height: 80px;
+    width: 460px;
+    font-size: 11px;
+    margin-top: 100px;
+    margin-left:10px;
+}
+.four-4{
+    background-image: url("img/submit.png");
+    width: 460px;
+    font-size: 11px;
+    margin-top: 10px;
+    height: 50px;
+    margin-left:10px;
+    position: absolute;
+}
+.menu{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.menu li{
+    float: left;
+    display: block;
+    padding-right: 36px;
+    margin-top: 28px;
+}
+.menu li a {
+    color: #1a54e7;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu2{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.menu2 li{
+    float: left;
+    display: block;
+    margin-top: 28px;
+    padding-right: 15px;
+}
+.menu2 li a {
+    color: #989e9e;
+    text-decoration: none;
+    font-size: 18px;
+}
